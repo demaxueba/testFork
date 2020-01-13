@@ -1,0 +1,6 @@
+only for test fork,for teamwork
+total 9
+drwxr-xr-x 1 xuebatian 197121  0  1月 13 16:32 ./
+drwxr-xr-x 1 xuebatian 197121  0  1月 13 16:30 ../
+drwxr-xr-x 1 xuebatian 197121  0  1月 13 16:31 .git/
+-rw-r--r-- 1 xuebatian 197121 32  1月 13 16:32 testForkJob
